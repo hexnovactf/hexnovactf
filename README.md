@@ -1,47 +1,27 @@
-# 🚀 Hexnova CTF Platform
+<div align="center">
 
-[![GitHub stars](https://shields.io)](https://github.com)
-[![Website](https://shields.io)](https://hexnova.space)
+# ⚡ HEXNOVA
 
-Welcome to **Hexnova**, an advanced, high-performance, and live cybersecurity **Capture The Flag (CTF)** platform designed for gamified hacking competitions. Built by hackers, powered by curiosity, and secured by knowledge.
+### Modern Capture The Flag Platform
 
-🌐 **Official Website:** [https://hexnova.space](https://hexnova.space)  
-📸 **Instagram Profile:** [@hexnovactf](https://www.instagram.com/hexnova.space?igsh=dnF5dDh6c2s4eG8x)
+**Build • Host • Compete • Learn**
 
----
+[![Website](https://img.shields.io/badge/Website-hexnova.space-7C3AED?style=for-the-badge&logo=googlechrome&logoColor=white)](https://hexnova.space)
 
-## 🎯 Keywords & Features (SEO Meta)
-* **Live CTF Platform**: Jeopardy-style and infrastructure hacking challenges.
-* **Cybersecurity Training**: Real-world cyber security vulnerabilities, web exploitation, and cryptography labs.
-* **Gamified Hacking Arena**: Live scoreboard, dynamic hint management, and real-time team statistics.
-* **Ethical Hacking Practice**: Safe and legal environment for security researchers and beginners.
+[![Discord](https://img.shields.io/badge/Discord-Join%20Server-5865F2?style=for-the-badge&logo=discord&logoColor=white)](https://discord.gg/3VJzX7bTC)
 
-## 🛠️ Tech Stack & Architecture
-* **Backend:** Node.js / Python (Flask/Django) / Go
-* **Frontend:** React / Vue.js
-* **Database:** PostgreSQL / MongoDB / Redis
-* **Deployment:** Docker, Kubernetes
+[![Instagram](https://img.shields.io/badge/Instagram-@hexnova.space-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/hexnova.space)
 
-## 💻 Getting Started
-
-### Prerequisites
-Ensure you have Docker and Git installed on your system.
-
-```bash
-# Clone the repository
-git clone https://github.com/hexnova-platform.git
-
-# Navigate to the project directory
-cd hexnova-platform
-
-# Start the local environment
-docker-compose up -d
-```
-
-## 🏆 Slogan
-> **Enter. Exploit. Capture. Dominate.**
+[![GitHub](https://img.shields.io/badge/GitHub-hexnovactf-181717?style=for-the-badge&logo=github)](https://github.com/hexnovactf)
 
 ---
 
-### Meta Tags for Search Engines (Google & GitHub SEO)
-`hexnova` `ctf-platform` `cybersecurity` `ethical-hacking` `capture-the-flag` `hacking-competitions` `open-source-ctf` `infosec` `jeopardy-ctf` `hexnovactf`
+🌐 **Website:** https://hexnova.space
+
+💬 **Discord:** https://discord.gg/3VJzX7bTC
+
+📸 **Instagram:** https://www.instagram.com/hexnova.space
+
+🐙 **GitHub:** https://github.com/hexnovactf
+
+</div>
