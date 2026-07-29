@@ -6,7 +6,7 @@
 Welcome to **Hexnova**, an advanced, high-performance, and live cybersecurity **Capture The Flag (CTF)** platform designed for gamified hacking competitions. Built by hackers, powered by curiosity, and secured by knowledge.
 
 🌐 **Official Website:** [https://hexnova.space](https://hexnova.space)  
-📸 **Instagram Profile:** [@hexnovactf](https://instagram.com)
+📸 **Instagram Profile:** [@hexnovactf](https://www.instagram.com/hexnova.space?igsh=dnF5dDh6c2s4eG8x)
 
 ---
 
