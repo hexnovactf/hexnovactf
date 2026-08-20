@@ -6,7 +6,7 @@
 
 **Build • Host • Compete • Learn**
 
-[![Website](https://img.shields.io/badge/Website-hexnova.space-7C3AED?style=for-the-badge&logo=googlechrome&logoColor=white)](https://hexnova.space)
+[![Website](https://img.shields.io/badge/Website-hexnova.space-7C3AED?style=for-the-badge&logo=googlechrome&logoColor=white)](https://hexnova.space , ctf.hexnova.space)
 
 [![Discord](https://img.shields.io/badge/Discord-Join%20Server-5865F2?style=for-the-badge&logo=discord&logoColor=white)](https://discord.gg/3VJzX7bTC)
 
